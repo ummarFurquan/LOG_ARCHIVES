@@ -1,3 +1,5 @@
+https://roadmap.sh/projects/log-archive-tool
+
 # 🗃️ Log Archive Script
 
 This Bash script is used to archive `.log` files from a specified directory, compress them into a timestamped `.tar.gz` archive, and store them in a local `archives/` directory. It also logs each archive operation with the time and location.
